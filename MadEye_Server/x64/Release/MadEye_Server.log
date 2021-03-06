@@ -1,0 +1,20 @@
+﻿  Main.cc
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\Main.cc(125,31): warning C4244: '인수': 'DWORD'에서 'u_short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  salsa20.cc
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(24,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(25,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(26,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(27,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(28,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(29,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(34,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(35,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(36,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(37,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(38,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Buntu\Desktop\source\MadEyeing\MadEye_Server\salsa20.cc(39,22): warning C4838: 'int'에서 'uint32_t'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 477 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  MadEye_Server.vcxproj -> C:\Users\Buntu\Desktop\source\MadEyeing\x64\Release\MadEye_Server.exe

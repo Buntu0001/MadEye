@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MadEye_Client", "MadEye\MadEye.vcxproj", "{F3770C04-E157-4367-B237-77E539592FF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MadEye_Server", "MadEye_Server\MadEye_Server.vcxproj", "{9FA3A830-583F-4622-9357-AEAFE14968C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3770C04-E157-4367-B237-77E539592FF1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F3770C04-E157-4367-B237-77E539592FF1}.Debug|x64.ActiveCfg = Debug|x64
+		{F3770C04-E157-4367-B237-77E539592FF1}.Debug|x64.Build.0 = Debug|x64
+		{F3770C04-E157-4367-B237-77E539592FF1}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3770C04-E157-4367-B237-77E539592FF1}.Debug|x86.Build.0 = Debug|Win32
+		{F3770C04-E157-4367-B237-77E539592FF1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F3770C04-E157-4367-B237-77E539592FF1}.Release|x64.ActiveCfg = Release|x64
+		{F3770C04-E157-4367-B237-77E539592FF1}.Release|x64.Build.0 = Release|x64
+		{F3770C04-E157-4367-B237-77E539592FF1}.Release|x86.ActiveCfg = Release|Win32
+		{F3770C04-E157-4367-B237-77E539592FF1}.Release|x86.Build.0 = Release|Win32
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Debug|x64.ActiveCfg = Debug|x64
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Debug|x64.Build.0 = Debug|x64
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Debug|x86.Build.0 = Debug|Win32
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Release|Any CPU.ActiveCfg = Release|Win32
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Release|x64.ActiveCfg = Release|x64
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Release|x64.Build.0 = Release|x64
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Release|x86.ActiveCfg = Release|Win32
+		{9FA3A830-583F-4622-9357-AEAFE14968C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BCD1B06-BE5C-4B00-BCF3-2B377AE769A7}
+	EndGlobalSection
+EndGlobal
